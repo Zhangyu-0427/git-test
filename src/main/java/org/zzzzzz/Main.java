@@ -10,5 +10,7 @@ public class Main {
         System.out.println("hot-fix test");
         System.out.println("push test");
         System.out.println("pull test");
+        // 需要将该项目pull 更新本地版本库
+        // 也是测试 pull 功能，快试试吧~
     }
 }
